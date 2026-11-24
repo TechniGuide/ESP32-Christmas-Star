@@ -41,7 +41,22 @@ YouTube video coming soon.
 
 The circuit was designed using the Falstad Circuit Simulator.
 
-Circuit files and detailed documentation will be added to this repository.
+![Circuit Diagram](schematics/circuit.png)
+
+### Circuit Files
+
+- [Download Falstad Circuit](schematics/circuit.txt)
+- [View Circuit Diagram](schematics/circuit.png)
+- [Open Falstad Simulator](https://www.falstad.com/circuit/)
+
+### Circuit Overview
+
+- Supply voltage: 3.3 V
+- Current-limiting resistors: 2 × 10 Ω
+- Total series resistance: 20 Ω
+- Base resistor: 1 kΩ
+- NPN transistor for switching
+- ESP32-C5 GPIO 10 as control signal
 
 ## 💻 Firmware
 
