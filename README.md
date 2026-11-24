@@ -60,9 +60,20 @@ The circuit was designed using the Falstad Circuit Simulator.
 
 ## 💻 Firmware
 
-The ESP32 firmware was developed with AI assistance.
+The firmware is written in MicroPython and was developed with AI assistance.
 
-Source code and setup instructions will be available here.
+[View Source Code – main.py](firmware/main.py)
+
+### Installation
+
+1. Install compatible MicroPython firmware on your ESP32-C5.
+2. Connect the ESP32-C5 to your computer via USB.
+3. Open a MicroPython-compatible IDE.
+4. Upload `main.py` to the ESP32-C5.
+5. Restart the microcontroller.
+6. Test the connected Christmas star.
+
+The current firmware is intended for the first breadboard prototype.
 
 ## 🗺️ Roadmap
 
