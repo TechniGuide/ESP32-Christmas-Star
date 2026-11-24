@@ -55,7 +55,7 @@ The circuit was designed using the Falstad Circuit Simulator.
 - Current-limiting resistors: 2 × 10 Ω
 - Total series resistance: 20 Ω
 - Base resistor: 1 kΩ
-- NPN transistor for switching
+- NPN transistor SS8050 for switching
 - ESP32-C5 GPIO 10 as control signal
 
 ## 💻 Firmware
