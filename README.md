@@ -18,14 +18,22 @@ This repository documents the entire development process, including experiments,
 
 ### Episode 01 – Building the Prototype
 
-- Analyzing the original decoration
-- Measuring current consumption
-- Designing the circuit using Falstad
-- Building a breadboard prototype
-- AI-assisted ESP32 programming
-- Testing the first prototype
+[![Watch on YouTube](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=0RVB59iFn1E)
 
-YouTube video coming soon.
+▶️ [Watch the full video on YouTube](https://www.youtube.com/watch?v=0RVB59iFn1E)
+
+In this episode:
+
+- Analyzing the original Christmas decoration
+- Current measurements and troubleshooting
+- Circuit design using Falstad
+- Building the breadboard prototype
+- AI-assisted MicroPython programming
+- Testing the first working prototype
+
+### Episode 02 – Battery Integration & Enclosure
+
+🚧 Coming soon.
 
 ## 🔧 Hardware
 
